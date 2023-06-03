@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **seizapanta@gmail.com**
 
-- ⚡ Fun fact **you can bribe me with matcha**
+- ⚡ Fun fact **, you can bribe me with matcha**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
