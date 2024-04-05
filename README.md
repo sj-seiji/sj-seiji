@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sj-seiji&label=Profile%20views&color=0e75b6&style=flat" alt="sj-seiji" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 Actively Learning
 
 - 📫 How to reach me **seizapanta@gmail.com**
 
