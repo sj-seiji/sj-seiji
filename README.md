@@ -2,13 +2,15 @@
 <h1 align="center">Hi 👋, I'm Seiji</h1>
 <h2>About me:</h3>
 
-- 🔭 I’m currently working on **a Productivity Application**
+🔭 I’m currently working on **a Productivity Application**
 
-- 🌱 Actively Learning
+🌱 Actively Learning
 
-- 📫 How to reach me **seizapanta@gmail.com**
+🤖 I also 3D [model](https://www.thingiverse.com/mangoob/designs) and print 
 
-- ⚡ Fun fact **, you can bribe me with matcha**
+📫 How to reach me **seizapanta@gmail.com**
+
+⚡ Fun fact **, you can bribe me with matcha**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/seiji-zapanta) 
