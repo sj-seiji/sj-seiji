@@ -4,8 +4,6 @@
 
 🔭 I’m currently working on **a Productivity Application**
 
-🌱 Actively Learning
-
 🤖 I also 3D [model](https://www.thingiverse.com/mangoob/designs) and print 
 
 📫 How to reach me **seizapanta@gmail.com**
