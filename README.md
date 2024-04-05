@@ -1,6 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Seiji</h1>
-<h3 align="center">I like coding</h3>
+<h2 align="center">I like coding</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sj-seiji&label=Profile%20views&color=0e75b6&style=flat" alt="sj-seiji" /> </p>
