@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Seiji</h1>
 <h2>About me:</h3>
 
-🔭 I’m currently working on **a Productivity Application**
+🔭 I’m currently working on **a Entertainment Application**
 
 🤖 I also 3D [model](https://www.thingiverse.com/mangoob/designs) and print 
 
