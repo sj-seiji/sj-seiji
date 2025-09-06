@@ -8,7 +8,7 @@
 
 📫 How to reach me **seizapanta@gmail.com**
 
-⚡ Fun fact **, you can bribe me with matcha**
+⚡ Fun fact **, you can bribe me with hojicha**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/seiji-zapanta) 
